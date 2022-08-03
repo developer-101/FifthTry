@@ -1,0 +1,9 @@
+- create 6 pages
+
+- create various combination of FlayoutItems and MenuItems
+
+- add SQLite capability
+
+- add Essential package and review its capability
+
+- 

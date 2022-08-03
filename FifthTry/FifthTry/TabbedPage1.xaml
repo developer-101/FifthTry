@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FifthTry.TabbedPage1"
+            xmlns:local="clr-namespace:FifthTry"
+            xmlns:views="clr-namespace:FifthTry.Views"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            >
+  <!--Pages can be added as references or inline-->
+    <views:SixPage Title="Six"></views:SixPage>
+    <ContentPage IconImageSource="asfas" BackgroundColor="Pink" />
+    <ContentPage Title="Tab 3" BackgroundColor="Orange" />
+</TabbedPage>
